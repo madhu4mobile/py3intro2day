@@ -2,6 +2,9 @@
 """
 Range is a sequence than collector
 
+    enumerate:
+        Constructs an iterable of ( index , value ) tuples around another iterable object
+
 """
 
 print(range(5))
